@@ -1,15 +1,15 @@
 "NAICS","emp_m1","emp_m2","emp_m3","tot_wages"
-"5111",2699,2713,2715,25560647
-"5112",224,225,226,5370145
-"517",9810,9574,9527,102405977
-"518",2288,2262,2353,25885299
-"51913",73,72,72,799802
-"5413",4765,4806,4863,47112050
-"5414",257,269,264,1577155
-"5415",3608,3582,3608,42132462
-"5416",6323,6348,6626,68567266
-"541711",636,485,380,2749563
-"541712",463,479,506,4551406
-"61142",155,159,166,1306175
-"62151",5664,5707,5795,36771197
-"6221",31366,31399,31555,215379324
+"Newspaper, Periodical, Book, and Directory Publishing",2699,2713,2715,25560647
+"Software Publishers",224,225,226,5370145
+"Telecommunications",9810,9574,9527,102405977
+"Internet Service Providers, Web Search Portals",2288,2262,2353,25885299
+"Internet Publishing and Broadcasting and Web Search Portals",73,72,72,799802
+"Architectural, Engineering, and Related Services",4765,4806,4863,47112050
+"Specialized Design Services",257,269,264,1577155
+"Computer Systems Design and Related Services",3608,3582,3608,42132462
+"Management, Scientific, and Technical Consulting",6323,6348,6626,68567266
+"Research and Development in Biotechnology",636,485,380,2749563
+"Research and Development in the Physical Engineering and Life Sciences (except Biotechnology)",463,479,506,4551406
+"Computer Training",155,159,166,1306175
+"Medical Laboratories",5664,5707,5795,36771197
+"General Medical and Surgical Hospitals",31366,31399,31555,215379324
