@@ -1,5 +1,4 @@
-concept,2012,2013,2014
-utility,34,19,38
-design,5,1,3
-plant,0,0,0
-reissue,0,0,0
+year,utility,design,plant,reissue
+2012,34,5,0,0
+2013,19,1,0,0
+2014,38,3,0,0
