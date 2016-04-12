@@ -22,10 +22,10 @@
         "id": "US-CT",
         "value": 3405565
     }, {
-        "id": "US-DE",
+        "id": "PR-TB",
         "value": 783600
     }, {
-        "id": "US-FL",
+        "id": "PR-SS",
         "value": 15982378
     }, {
         "id": "US-GA",
@@ -46,7 +46,7 @@
         "id": "US-IA",
         "value": 2926324
     }, {
-        "id": "US-KS",
+        "id": "PR-LQ",
         "value": 2688418
     }, {
         "id": "US-KY",
